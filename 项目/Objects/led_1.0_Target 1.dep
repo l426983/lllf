@@ -1,0 +1,4 @@
+Dependencies for Project 'led_1.0', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main_3led.c)(0x6AB1506C)(--c99 -c --cpu Cortex-M3 -g -O1 --apcs=interwork --split_sections-I.\RTE\_Target_1-I"D:\Keil MDK\Keil5 MDK 0\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\Keil MDK\Keil5 MDK 0\ARM\CMSIS\Include"-D__UVISION_VERSION="524" -DSTM32F10X_MD-o .\objects\main_3led.o --omf_browse .\objects\main_3led.crf --depend .\objects\main_3led.d)
+I (D:\Keil MDK\Keil5 MDK 0\ARM\ARMCC\include\stdint.h)(0x588B8344)
+F (.\startup_stm32f10x_md.s)(0x559CEDB6)(--cpu Cortex-M3 -g --apcs=interwork -I.\RTE\_Target_1-I"D:\Keil MDK\Keil5 MDK 0\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\Keil MDK\Keil5 MDK 0\ARM\CMSIS\Include"--pd "__UVISION_VERSION SETA 524" --pd "STM32F10X_MD SETA 1"--list .\listings\startup_stm32f10x_md.lst --xref -o .\objects\startup_stm32f10x_md.o --depend .\objects\startup_stm32f10x_md.d)
